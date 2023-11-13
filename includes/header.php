@@ -11,25 +11,25 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="about_us.html">Inicio</a>
+                    <a class="nav-link" href="index.php">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="courses.html">Nosotros</a>
+                    <a class="nav-link" href="index.php#about">Nosotros</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="courses.html">Preescolar</a>
+                    <a class="nav-link" href="preescolar.php">Preescolar</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="blog.html">Primaria</a>
+                    <a class="nav-link" href="primaria.php">Primaria</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Secundaria</a>
+                    <a class="nav-link" href="secundaria.php">Secundaria</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="courses.html">Galería</a>
+                    <a class="nav-link" href="galeria.php">Galería</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link common_btn" href="#">CONTACTAR</a>
+                    <a class="nav-link common_btn" href="contacto.php">CONTACTAR</a>
                 </li>
             </ul>
         </div>

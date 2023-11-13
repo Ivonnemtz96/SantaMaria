@@ -81,16 +81,9 @@
             </div>
         </div>
     </section>
-    <!--=================================
-        CATEGORIES END
-    ==================================-->
 
-
-    <!--=================================
-        ABOUT START
-    ==================================-->
     <section class="tf__about mt_250 xs_mt_195" style="background: url(images/about_bg.png);">
-        <div class="container">
+        <div class="container" id="about">
             <div class="tf__about_top wow fadeInUp" data-wow-duration="1.5s"
                 style="background: url(images/about_top_bg.jpg);">
                 <div class="row">
@@ -148,14 +141,7 @@
             </div>
         </div>
     </section>
-    <!--=================================
-        ABOUT END
-    ==================================-->
 
-
-    <!--=================================
-        FAQ START
-    ==================================-->
     <section class="tf__faq mt_100 pt_95 xs_pt_100 pb_100" style="background: url(images/faq_bg.png);">
         <div class="container">
             <div class="row">
@@ -259,14 +245,7 @@
             </div>
         </div>
     </section>
-    <!--=================================
-        FAQ END
-    ==================================-->
-
-
-    <!--=================================
-        WORK START
-    ==================================-->
+ 
     <section class="tf__work pt_95" style="background: url(images/work_bg.jpg);">
         <div class="container">
             <div class="row">
@@ -326,14 +305,7 @@
             </div>
         </div>
     </section>
-    <!--=================================
-        WORK END
-    ==================================-->
 
-
-    <!--=================================
-        TESTIMONIAL START
-    ==================================-->
     <section class="tf___testimonial mt_100 pt_95 pb_100" style="background: url(images/testimonial_bg.jpg);">
         <div class="container">
             <div class="row">
