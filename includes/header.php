@@ -11,44 +11,25 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link active" href="index.html">Home <i class="far fa-angle-down"></i></a>
-                    <ul class="tf__droap_menu">
-                        <li><a class="active" href="index.html">home 1</a></li>
-                        <li><a href="index_2.html">home 2</a></li>
-                        <li><a href="index_3.html">home 3</a></li>
-                    </ul>
+                    <a class="nav-link" href="about_us.html">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about_us.html">about us</a>
+                    <a class="nav-link" href="courses.html">Nosotros</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="courses.html">courses</a>
+                    <a class="nav-link" href="courses.html">Preescolar</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="blog.html">blog</a>
+                    <a class="nav-link" href="blog.html">Primaria</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">pages <i class="far fa-angle-down"></i></a>
-                    <ul class="tf__droap_menu">
-                        <li><a href="courses_details.html">courses details</a></li>
-                        <li><a href="blog_details.html">blog details</a></li>
-                        <li><a href="events.html">event</a></li>
-                        <li><a href="event_details.html">event details</a></li>
-                        <li><a href="team.html">team</a></li>
-                        <li><a href="team_details.html">team details </a></li>
-                        <li><a href="error.html">error</a></li>
-                        <li><a href="faq.html">FAQs</a></li>
-                        <li><a href="sign_in.html">sign in</a></li>
-                        <li><a href="sign_up.html">sign up</a></li>
-                        <li><a href="terms_condition.html">terms and condition</a></li>
-                        <li><a href="privacy_policy.html">privacy policy</a></li>
-                    </ul>
+                    <a class="nav-link" href="contact.html">Secundaria</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">contact</a>
+                    <a class="nav-link" href="courses.html">Galería</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link common_btn" href="#">LEARN MORE</a>
+                    <a class="nav-link common_btn" href="#">CONTACTAR</a>
                 </li>
             </ul>
         </div>
