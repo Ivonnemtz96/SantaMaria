@@ -113,7 +113,7 @@ button {
 
 :root {
     --colorPrimary: #ff7f46;
-    --colorBlue: #4582ff;
+    --colorBlue: #08375b;
     --colorGreen: #00d6d3;
     --colorBlack: #0f2239;
     --paraColor: #636363;
@@ -501,7 +501,7 @@ button {
 .menu_fix {
     position: fixed !important;
     top: 0;
-    height: 70px;
+    height: 85px;
     background: var(--colorWhite);
     box-shadow: var(--box-shadow);
 }
@@ -872,53 +872,53 @@ button {
 
 
 .tf__single_category.light_blue .tf__single_category_icon {
-    background: #8e56ff;
+    background: #ff7f46;
 }
 
 .tf__single_category.light_blue .tf__single_category_text {
-    border-color: #8e56ff;
+    border-color: #ff7f46;
 }
 
 .tf__single_category.light_blue:hover .tf__single_category_text::after {
-    background: #8e56ff;
+    background: #ff7f46;
 }
 
 .tf__single_category.light_blue:hover .tf__single_category_icon {
-    color: #8e56ff;
+    color: #ff7f46;
 }
 
 
 .tf__single_category.blue .tf__single_category_icon {
-    background: #4582ff;
+    background: #b29556;
 }
 
 .tf__single_category.blue .tf__single_category_text {
-    border-color: #4582ff;
+    border-color: #b29556;
 }
 
 .tf__single_category.blue:hover .tf__single_category_text::after {
-    background: #4582ff;
+    background: #b29556;
 }
 
 .tf__single_category.blue:hover .tf__single_category_icon {
-    color: #4582ff;
+    color: #b29556;
 }
 
 
 .tf__single_category.green .tf__single_category_icon {
-    background: #1ab69d;
+    background: #b29556;
 }
 
 .tf__single_category.green .tf__single_category_text {
-    border-color: #1ab69d;
+    border-color: #b29556;
 }
 
 .tf__single_category.green:hover .tf__single_category_text::after {
-    background: #1ab69d;
+    background: #b29556;
 }
 
 .tf__single_category.green:hover .tf__single_category_icon {
-    color: #1ab69d;
+    color: #b29556;
 }
 
 
@@ -1787,11 +1787,11 @@ button {
 }
 
 .tf__work_single.blue::after {
-    background: #8e56ff;
+    background: #08375b;
 }
 
 .tf__work_single.blue a {
-    color: #8e56ff;
+    color: #08375b;
 }
 
 .tf__work_single.orange::after {
@@ -1803,11 +1803,11 @@ button {
 }
 
 .tf__work_single.green::after {
-    background: #1ab69d;
+    background: #b29556;
 }
 
 .tf__work_single.green a {
-    color: #1ab69d;
+    color: #b29556;
 }
 
 .tf__work_single.red::after {
@@ -2132,7 +2132,7 @@ button {
 }
 
 .tf__single_blog .category.light_blue {
-    background: #8e56ff;
+    background: #08375b;
 }
 
 .tf__single_blog .category.orange {
@@ -4805,7 +4805,7 @@ button {
 }
 
 .tf__single_blog_text_2 .category.green {
-    background: #1ab69d;
+    background: #b29556;
 }
 
 .tf__single_blog_text_2 .title {

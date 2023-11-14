@@ -1,6 +1,3 @@
-    <!--=================================
-        BANNER START
-    ==================================-->
     <section class="tf__banner" style="background: url(images/banner_bg.jpg);">
         <div class="container">
             <div class="row">
@@ -26,16 +23,9 @@
             </div>
         </div>
     </section>
-    <!--=================================
-        BANNER END
-    ==================================-->
 
-
-    <!--=================================
-        CATEGORIES START
-    ==================================-->
     <section class="tf__categories mt_95">
-        <div class="container">
+        <div class="container" id="servicios">
             <div class="row">
                 <div class="col-xl-6 col-md-8 col-lg-6 m-auto wow fadeInUp" data-wow-duration="1.5s">
                     <div class="tf__heading_area mb_15">
@@ -245,9 +235,85 @@
             </div>
         </div>
     </section>
- 
+
+    <section class="tf__blog_2 mt_95">
+        <div class="container" id="costos">
+            <div class="row wow fadeInUp" data-wow-duration="1.5s">
+                <div class="col-xl-6 col-xxl-5 col-md-8 col-lg-6 m-auto">
+                    <div class="tf__heading_area mb_15">
+                        <h5>Nuestros Costos</h5>
+                        <h2>Costos</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-5 col-lg-5 wow fadeInLeft" data-wow-duration="1.5s">
+                    <div class="tf__single_blog">
+                        <a class="tf__single_blog_img" href="#contacto">
+                            <img src="images/blog_1.jpg" alt="blog" class="img-fluid w-100">
+                        </a>
+                        <div class="tf__single_blog_text">
+                            <a class="category light_blue">Preescolar</a>
+                            <h5 class="mt-4 mb-3">
+                                <b> Pequeñas mentes, grandes sueños, ¡bienvenidos al preescolar!</b>
+                            </h5>
+                            <p>
+                                <b>Inscripción:</b> $3000 <br>
+                                <b>Colegiatura:</b> $3,300
+                            </p>
+                            <a class="read_btn" href="#contacto">Contactar <i
+                                    class="fas fa-chevron-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-7 col-lg-7  wow fadeInRight" data-wow-duration="1.5s">
+                    <div class="row">
+                        <div class="col-12 col-md-6 col-lg-12">
+                            <div class="tf__single_blog_2">
+                                <a class="tf__single_blog_2_img" href="#contacto">
+                                    <img src="images/blog_2.jpg" alt="blog" class="img-fluid w-100">
+                                </a>
+                                <div class="tf__single_blog_text_2">
+                                    <a class="category" href="#">Primaria</a>
+                                    <h5 class="mt-4 mb-3">
+                                        En nuestra escuela primaria, cada día es una oportunidad para aprender y crecer.
+                                    </h5>
+                                    <p>
+                                        <b>Inscripción:</b> $3,500 <br>
+                                        <b>Colegiatura:</b> $3,600
+                                    </p>
+                                    <a class="read_btn" href="#contacto">Contactar <i
+                                            class="fas fa-chevron-circle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-12">
+                            <div class="tf__single_blog_2">
+                                <a class="tf__single_blog_2_img" href="#contacto">
+                                    <img src="images/blog_3.jpg" alt="blog" class="img-fluid w-100">
+                                </a>
+                                <div class="tf__single_blog_text_2">
+                                    <a class="category green" href="#">Secundaria</a>
+                                    <h5 class="mt-4 mb-3">
+                                    Cada día es una nueva lección, una nueva oportunidad para brillar en nuestra secundaria.
+                                    </h5>
+                                    <p>
+                                        <b>Inscripción:</b> $4,000 <br>
+                                        <b>Colegiatura:</b> $4,000
+                                    </p>
+                                    <a class="read_btn" href="#contacto">Contacto <i
+                                            class="fas fa-chevron-circle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section class="tf__work pt_95" style="background: url(images/work_bg.jpg);">
-        <div class="container">
+        <div class="container" id="extraescolares">
             <div class="row">
                 <div class="col-xl-6 col-md-8 col-lg-6 m-auto wow fadeInUp" data-wow-duration="1.5s">
                     <div class="tf__heading_area mb_35 md_margin">
@@ -281,7 +347,7 @@
                             <h3>Basketball </h3>
                             <p>
                                 Explora el emocionante universo del baloncesto en nuestro espacio dedicado a este
-                                apasionante deporte.
+                                apasionante deporte. 
                             </p>
                             <a href="#"><i class="fas fa-long-arrow-right"></i></a>
                         </div>
@@ -443,4 +509,3 @@
             </div>
         </div>
     </section>
-

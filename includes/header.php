@@ -1,7 +1,10 @@
 <nav class="navbar navbar-expand-lg main_menu">
     <div class="container">
-        <a class="navbar-brand" href="index.html">
-            <img src="images/logo.png" alt="Eduor" class="img-fluid w-100">
+        <a class="navbar-brand d-none d-md-block" href="index.html">
+            <img src="images/stamaria.png?=1" alt="Instituto Santa María"  class="d-none d-md-block">
+        </a>
+        <a class="navbar-brand d-block d-md-none" style="width: 6rem;" href="index.html">
+            <img src="images/stamaria.png?=1" alt="Instituto Santa María" class="d-block d-md-none">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,19 +20,19 @@
                     <a class="nav-link" href="index.php#about">Nosotros</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="preescolar.php">Preescolar</a>
+                    <a class="nav-link" href="index.php#servicios">servicios</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="primaria.php">Primaria</a>
+                    <a class="nav-link" href="#costos">Costos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="secundaria.php">Secundaria</a>
+                    <a class="nav-link" href="#extra">Club Extraescolares</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="galeria.php">Galería</a>
+                    <a class="nav-link" href="#galeria">Galería</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link common_btn" href="contacto.php">CONTACTAR</a>
+                    <a class="nav-link common_btn" href="#contacto">CONTACTAR</a>
                 </li>
             </ul>
         </div>
