@@ -401,7 +401,7 @@ button {
     position: fixed;
     width: 100%;
     height: 90px;
-    background: transparent;
+    background: #ffffffb2;
     top: 0;
     left: 0;
     padding: 0;
@@ -692,7 +692,7 @@ button {
 .tf__banner::after {
     position: absolute;
     content: "";
-    background: url(../images/banner_shape.png);
+    /* background: url(../images/banner_shape.png); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -720,7 +720,7 @@ button {
 .tf__banner::before {
     position: absolute;
     content: "";
-    background: url(../images/arrow_shapes.png);
+    /* background: url(../images/arrow_shapes.png); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -889,19 +889,19 @@ button {
 
 
 .tf__single_category.blue .tf__single_category_icon {
-    background: #b29556;
+    background: #08375b;
 }
 
 .tf__single_category.blue .tf__single_category_text {
-    border-color: #b29556;
+    border-color: #08375b;
 }
 
 .tf__single_category.blue:hover .tf__single_category_text::after {
-    background: #b29556;
+    background: #08375b;
 }
 
 .tf__single_category.blue:hover .tf__single_category_icon {
-    color: #b29556;
+    color: #08375b;
 }
 
 

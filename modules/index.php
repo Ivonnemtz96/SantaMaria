@@ -1,16 +1,16 @@
-    <section class="tf__banner" style="background: url(images/banner_bg.jpg);">
+    <section class="tf__banner" style="background: url(images/11.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-xl-7 col-lg-8">
                     <div class="tf__banner_text wow fadeInUp" data-wow-duration="1.5s">
-                        <h5>Bienvenidos a </h5>
-                        <h1>Instituto <span>Santa María</span>.</h1>
-                        <p>
+                        <h5 style="color: #fff;">Bienvenidos a </h5>
+                        <h1 style="color: #fff;">Instituto <span>Santa María</span>.</h1>
+                        <p style="color: #fff;">
                             Donde el aprendizaje se encuentra con la excelencia, y cada estudiante es una estrella en
                             ascenso.
                         </p>
                         <ul class="d-flex flex-wrap align-items-center">
-                            <li><a class="common_btn" href="#">Ver planes de estudio</a></li>
+                            <li><a class="common_btn" href="#costos">Ver Costos</a></li>
                             <li>
                                 <a class="venobox play_btn" data-autoplay="true" data-vbtype="video"
                                     href="https://youtu.be/xsnCYCEbdr4">
@@ -24,8 +24,8 @@
         </div>
     </section>
 
-    <section class="tf__categories mt_95">
-        <div class="container" id="servicios">
+    <section class="tf__categories mt_95" id="servicios">
+        <div class="container" >
             <div class="row">
                 <div class="col-xl-6 col-md-8 col-lg-6 m-auto wow fadeInUp" data-wow-duration="1.5s">
                     <div class="tf__heading_area mb_15">
@@ -42,7 +42,7 @@
                         </div>
                         <div class="tf__single_category_text">
                             <h3>Preescolar</h3>
-                            <p>We can provide you with a handyan in London.</p>
+                            <p>Bienvenidos al lugar donde la diversión y el aprendizaje van de la mano.</p>
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                         </div>
                         <div class="tf__single_category_text">
                             <h3>Primaria</h3>
-                            <p>We can provide you with a handyan in London.</p>
+                            <p>En la primaria, sembramos las semillas del conocimiento que florecen para siempre.</p>
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                         </div>
                         <div class="tf__single_category_text">
                             <h3>Secundaria</h3>
-                            <p>We can provide you with a handyan in London.</p>
+                            <p>Bienvenidos a la etapa donde los sueños se afinan y se forja la identidad.</p>
                         </div>
                     </div>
                 </div>
@@ -72,14 +72,14 @@
         </div>
     </section>
 
-    <section class="tf__about mt_250 xs_mt_195" style="background: url(images/about_bg.png);">
-        <div class="container" id="about">
+    <section id="about" class="tf__about mt_250 xs_mt_195" style="background-color: url(images/about_bg.png);">
+        <div class="container" >
             <div class="tf__about_top wow fadeInUp" data-wow-duration="1.5s"
-                style="background: url(images/about_top_bg.jpg);">
+                style="background-color: #08375b;">
                 <div class="row">
                     <div class="col-xl-5 col-lg-5">
                         <div class="tf__about_top_img">
-                            <img src="images/about_top_img.jpg" alt="about" class="img-fluid w-100">
+                            <img src="images/10.jpg" alt="about" class="img-fluid w-100">
                         </div>
                     </div>
                     <div class="col-xl-7 col-lg-7">
@@ -95,7 +95,7 @@
                                     entorno y el compromiso firme de impactarlo positivamente.
                                 </p>
                             </div>
-                            <a href="#" class="common_btn">Ver más</a>
+                            <a href="#contacto" class="common_btn">Contactar</a>
                         </div>
                     </div>
                 </div>
@@ -119,12 +119,12 @@
                             bienestar presente y futuro de su persona dentro de nuestra
                             sociedad.
                         </p>
-                        <a href="#" class="common_btn">Ubicación</a>
+                        <a href="https://maps.app.goo.gl/9J3LdjAGX4LJc61Q6" target="_blank" class="common_btn">Ubicación</a>
                     </div>
                 </div>
                 <div class="col-xl-6 col-sm-9 col-md-8 col-lg-6 wow fadeInRight" data-wow-duration="1.5s">
                     <div class="tf__about_img">
-                        <img src="images/about_img.png" alt="about" class="img-fluid w-100">
+                        <img src="images/09.jpg" alt="about" class="img-fluid w-100">
 
                     </div>
                 </div>
@@ -137,7 +137,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-duration="1.5s">
                     <div class="tf__faq_img">
-                        <img src="images/faq_img.jpg" alt="faqs" class="img-fluid w-100">
+                        <img src="images/08.jpg" alt="faqs" class="img-fluid w-100">
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 wow fadeInRight" data-wow-duration="1.5s">
@@ -236,8 +236,8 @@
         </div>
     </section>
 
-    <section class="tf__blog_2 mt_95">
-        <div class="container" id="costos">
+    <section class="tf__blog_2 mt_95" id="costos">
+        <div class="container">
             <div class="row wow fadeInUp" data-wow-duration="1.5s">
                 <div class="col-xl-6 col-xxl-5 col-md-8 col-lg-6 m-auto">
                     <div class="tf__heading_area mb_15">
@@ -250,10 +250,10 @@
                 <div class="col-xl-5 col-lg-5 wow fadeInLeft" data-wow-duration="1.5s">
                     <div class="tf__single_blog">
                         <a class="tf__single_blog_img" href="#contacto">
-                            <img src="images/blog_1.jpg" alt="blog" class="img-fluid w-100">
+                            <img src="images/05.jpg" alt="blog" class="img-fluid w-100">
                         </a>
                         <div class="tf__single_blog_text">
-                            <a class="category light_blue">Preescolar</a>
+                            <h2 class="category light_blue">Preescolar</h2>
                             <h5 class="mt-4 mb-3">
                                 <b> Pequeñas mentes, grandes sueños, ¡bienvenidos al preescolar!</b>
                             </h5>
@@ -271,10 +271,10 @@
                         <div class="col-12 col-md-6 col-lg-12">
                             <div class="tf__single_blog_2">
                                 <a class="tf__single_blog_2_img" href="#contacto">
-                                    <img src="images/blog_2.jpg" alt="blog" class="img-fluid w-100">
+                                    <img src="images/06.jpg" alt="blog" class="img-fluid w-100">
                                 </a>
                                 <div class="tf__single_blog_text_2">
-                                    <a class="category" href="#">Primaria</a>
+                                    <h2 class="category" href="#">Primaria</h2>
                                     <h5 class="mt-4 mb-3">
                                         En nuestra escuela primaria, cada día es una oportunidad para aprender y crecer.
                                     </h5>
@@ -290,12 +290,13 @@
                         <div class="col-12 col-md-6 col-lg-12">
                             <div class="tf__single_blog_2">
                                 <a class="tf__single_blog_2_img" href="#contacto">
-                                    <img src="images/blog_3.jpg" alt="blog" class="img-fluid w-100">
+                                    <img src="images/07.jpg" alt="blog" class="img-fluid w-100">
                                 </a>
                                 <div class="tf__single_blog_text_2">
-                                    <a class="category green" href="#">Secundaria</a>
+                                    <h3 class="category green" href="#">Secundaria</h3>
                                     <h5 class="mt-4 mb-3">
-                                    Cada día es una nueva lección, una nueva oportunidad para brillar en nuestra secundaria.
+                                        Cada día es una nueva lección, una nueva oportunidad para brillar en nuestra
+                                        secundaria.
                                     </h5>
                                     <p>
                                         <b>Inscripción:</b> $4,000 <br>
@@ -312,8 +313,8 @@
         </div>
     </section>
 
-    <section class="tf__work pt_95" style="background: url(images/work_bg.jpg);">
-        <div class="container" id="extraescolares">
+    <section class="tf__work pt_95" style="background: url(images/work_bg.jpg);" id="extra">
+        <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-md-8 col-lg-6 m-auto wow fadeInUp" data-wow-duration="1.5s">
                     <div class="tf__heading_area mb_35 md_margin">
@@ -326,7 +327,7 @@
                 <div class="col-xl-4">
                     <div class="tf__work_single blue">
                         <div class="tf__work_single_img">
-                            <img src="images/work_img_1.jpg" alt="work" class="img-fluid w-100">
+                            <img src="images/02.jpg" alt="work" class="img-fluid w-100">
                         </div>
                         <div class="tf__work_single_text">
                             <h3>Futbol Soccer</h3>
@@ -341,13 +342,13 @@
                 <div class="col-xl-4 wow fadeInUp" data-wow-duration="1.5s">
                     <div class="tf__work_single orange">
                         <div class="tf__work_single_img">
-                            <img src="images/work_img_2.jpg" alt="work" class="img-fluid w-100">
+                            <img src="images/03.jpg" alt="work" class="img-fluid w-100">
                         </div>
                         <div class="tf__work_single_text">
                             <h3>Basketball </h3>
                             <p>
                                 Explora el emocionante universo del baloncesto en nuestro espacio dedicado a este
-                                apasionante deporte. 
+                                apasionante deporte.
                             </p>
                             <a href="#"><i class="fas fa-long-arrow-right"></i></a>
                         </div>
@@ -356,7 +357,7 @@
                 <div class="col-xl-4 wow fadeInUp" data-wow-duration="1.5s">
                     <div class="tf__work_single green">
                         <div class="tf__work_single_img">
-                            <img src="images/work_img_3.jpg" alt="work" class="img-fluid w-100">
+                            <img src="images/04.jpg" alt="work" class="img-fluid w-100">
                         </div>
                         <div class="tf__work_single_text">
                             <h3> Róbotica</h3>
@@ -372,7 +373,7 @@
         </div>
     </section>
 
-    <section class="tf___testimonial mt_100 pt_95 pb_100" style="background: url(images/testimonial_bg.jpg);">
+    <section class="tf___testimonial mt_100 pt_95 pb_100" style="background: url(images/01.jpg?=1);">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-xxl-5 col-md-8 col-lg-6 m-auto">
@@ -458,52 +459,75 @@
         </div>
     </section>
 
-    <section class="tf__activities mt_100 xs_mt_95">
+    <section class="tf__contact_page mt_190 xs_mt_95">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 wow fadeInLeft" data-wow-duration="1.5s">
-                    <div class="tf__heading_area tf__heading_area_left mb_20">
-                        <h5>OUR Best ACTIVITIES</h5>
-                        <h2>We School Be Happy With Our Activities.</h2>
-                    </div>
-                    <div class="tf__activities_text">
-                        <p>Business tailored it design, management & support services
-                            business agency elit, sed do eiusmod tempor. </p>
-                        <div class="row">
-                            <div class="col-xl-6 col-sm-6">
-                                <div class="tf__activities_item light_blue">
-                                    <span>
-                                        <i class="fal fa-book"></i>
-                                    </span>
-                                    <h3>Parenting Bill</h3>
+            <div class="row align-items-center">
+                <div class=" col-lg-7 wow fadeInLeft" data-wow-duration="1.5s">
+                    <div class="tf__contact_form">
+                        <div class="tf__heading_area tf__heading_area_left mb_25">
+                            <h5>¿Tienes alguna duda o pregunta?</h5>
+                            <h2>Contáctanos.</h2>
+                        </div>
+                        <p>
+                            Estamos a solo un correo o llamada de distancia. <br> ¡Conéctate con nosotros hoy!
+                        </p>
+                        <form>
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <input type="text" required="" placeholder="Nombre">
                                 </div>
-                                <div class="tf__activities_item green">
-                                    <span>
-                                        <i class="fas fa-graduation-cap"></i>
-                                    </span>
-                                    <h3>Engineering</h3>
+                                <div class="col-xl-6">
+                                    <input type="email" required="" placeholder="Correo">
+                                </div>
+                                <div class="col-xl-6">
+                                    <input type="text" required="" placeholder="Teléfono">
+                                </div>
+                                <div class="col-xl-12">
+                                    <textarea rows="8" placeholder="Message"></textarea>
+                                    <button type="submit" class="common_btn_2">Enviar </button>
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-sm-6 xs_mt_0 mt_30 md_margin">
-                                <div class="tf__activities_item orange">
-                                    <span>
-                                        <i class="far fa-university"></i>
-                                    </span>
-                                    <h3>Sports Training</h3>
-                                </div>
-                                <div class="tf__activities_item blue">
-                                    <span>
-                                        <i class="fas fa-books-medical"></i>
-                                    </span>
-                                    <h3>School Directly</h3>
-                                </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-5 wow fadeInRight" data-wow-duration="1.5s">
+                    <div class="tf__contact_text">
+                        <div class="tf__contact_single">
+                            <div class="icon blue">
+                                <i class="fas fa-phone-alt"></i>
+                            </div>
+                            <div class="text">
+                                <h3>Oficina</h3>
+                                <a href="tel:6241438706">1438706</a>
+                            </div>
+                        </div>
+                        <div class="tf__contact_single">
+                            <div class="icon orange">
+                                <i class="fas fa-phone-alt"></i>
+                            </div>
+                            <div class="text">
+                                <hh5>Correo</hh5>
+                                <a href="mailto:Californiaeducativa@hotmail.com">Californiaeducativa@hotmail.com</a>
+                            </div>
+                        </div>
+                        <div class="tf__contact_single">
+                            <div class="icon green">
+                                <i class="fas fa-phone-alt"></i>
+                            </div>
+                            <div class="text">
+                                <h3>Dirección</h3>
+                                <p> 5 de Febrero, C. Ejido, Mariano Matamoros,Cabo San Lucas</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-md-9 col-lg-6 wow fadeInRight" data-wow-duration="1.5s">
-                    <div class="tf__activities_img">
-                        <img src="images/activities_img.jpg" alt="activities" class="img-fluid w-100">
+
+                <div class="col-xl-12 wow fadeInUp" data-wow-duration="1.5s">
+                    <div class="tf__contact_map mt_100">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7621.026722522569!2d-109.92699261564333!3d22.89853823532009!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4a5f0ca513cf%3A0x770516a8d76afc64!2sInstituto%20Santa%20Maria!5e0!3m2!1ses-419!2smx!4v1699980142944!5m2!1ses-419!2smx"
+                           style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
