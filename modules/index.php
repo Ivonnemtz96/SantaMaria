@@ -335,7 +335,7 @@
                                 Sumérgete en el emocionante mundo del fútbol soccer, donde la pasión y la destreza se
                                 unen en cada partido.
                             </p>
-                            <a href="#"><i class="fas fa-long-arrow-right"></i></a>
+                            <a href="#contacto"><i class="fas fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -350,7 +350,7 @@
                                 Explora el emocionante universo del baloncesto en nuestro espacio dedicado a este
                                 apasionante deporte.
                             </p>
-                            <a href="#"><i class="fas fa-long-arrow-right"></i></a>
+                            <a href="#contacto"><i class="fas fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -365,7 +365,7 @@
                                 Inspiramos a jóvenes mentes a explorar el
                                 emocionante mundo de la tecnología y la ingeniería.
                             </p>
-                            <a href="#"><i class="fas fa-long-arrow-right"></i></a>
+                            <a href="#contacto"><i class="fas fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -396,9 +396,6 @@
                             motivado con sus profes entrenadores y todo el equipo de básquet ya que su profesor es uno
                             Delos profesionales súper. Umanitarios y exelente trato felicidades exelente educación
                         </p>
-                        <div class="img">
-                            <img src="images/client_img_1.png" alt="client" class="img-f;uid w-100">
-                        </div>
                         <h3 class="title">Rosario gonzales acosta</h3>
                         <p class="rating">
                             <i class="fas fa-star fill"></i>
@@ -419,9 +416,6 @@
                             institución preocupada por el aprendizaje y desarrollo de los niños y adolescentes.
                             Desde hace casi 20 años, es uno de los mejores colegios de todo Los Cabos.
                         </p>
-                        <div class="img">
-                            <img src="images/client_img_2.png" alt="client" class="img-f;uid w-100">
-                        </div>
                         <h3 class="title">Hernán Galicia León</h3>
                         <p class="rating">
                             <i class="fas fa-star fill"></i>
@@ -429,6 +423,7 @@
                             <i class="fas fa-star fill"></i>
                             <i class="fas fa-star fill"></i>
                             <i class="fas fa-star fill"></i>
+
                         </p>
                     </div>
                 </div>
@@ -442,9 +437,6 @@
                             cambio académico.
 
                         </p>
-                        <div class="img">
-                            <img src="images/client_img_3.png" alt="client" class="img-f;uid w-100">
-                        </div>
                         <h3 class="title">Marisela Corrales Angulo</h3>
                         <p class="rating">
                             <i class="fas fa-star fill"></i>
@@ -459,7 +451,7 @@
         </div>
     </section>
 
-    <section class="tf__contact_page mt_190 xs_mt_95">
+    <section class="tf__contact_page mt_190 xs_mt_95" id="contacto">
         <div class="container">
             <div class="row align-items-center">
                 <div class=" col-lg-7 wow fadeInLeft" data-wow-duration="1.5s">
@@ -503,7 +495,7 @@
                         </div>
                         <div class="tf__contact_single">
                             <div class="icon orange">
-                                <i class="fas fa-phone-alt"></i>
+                            <i class="fa-solid fa-envelope"></i>
                             </div>
                             <div class="text">
                                 <hh5>Correo</hh5>
@@ -512,7 +504,7 @@
                         </div>
                         <div class="tf__contact_single">
                             <div class="icon green">
-                                <i class="fas fa-phone-alt"></i>
+                                <i class="fa-solid fa-location-dot"></i>
                             </div>
                             <div class="text">
                                 <h3>Dirección</h3>

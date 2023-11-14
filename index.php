@@ -9,6 +9,7 @@
         include('includes/header.php');
         include('modules/index.php');
         include('includes/footer.php');
+        include('includes/redes.php');
         include('includes/scripts.php');
         include('includes/redes.php');   
     ?>
