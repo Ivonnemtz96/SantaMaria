@@ -1,9 +1,9 @@
 <nav class="navbar navbar-expand-lg main_menu">
     <div class="container">
-        <a class="navbar-brand d-none d-md-block" href="index.html">
+        <a class="navbar-brand d-none d-md-block" href="index.php">
             <img src="images/stamaria.png?=1" alt="Instituto Santa María"  class="d-none d-md-block">
         </a>
-        <a class="navbar-brand d-block d-md-none" style="width: 6rem;" href="index.html">
+        <a class="navbar-brand d-block d-md-none" style="width: 6rem;" href="index.php">
             <img src="images/stamaria.png?=1" alt="Instituto Santa María" class="d-block d-md-none">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
